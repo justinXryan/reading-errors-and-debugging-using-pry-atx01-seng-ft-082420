@@ -1,4 +1,4 @@
 def plus_two(num)
-	puts num + 2
+	plus_two = num + 2
 	
 end
